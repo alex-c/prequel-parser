@@ -1,2 +1,2 @@
 # prequel-parser
-A parser for the Prequel programming language
+A parser for the Prequel programming language.
